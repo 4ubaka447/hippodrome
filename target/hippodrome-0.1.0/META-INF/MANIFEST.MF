@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.5.4
+Built-By: Yaroslav Semenchenko
+Build-Jdk: 10.0.1
+Main-Class: classes.main.java.com.app.Hippodrome
+
